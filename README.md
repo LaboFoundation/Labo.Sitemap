@@ -1,0 +1,2 @@
+# Labo.Sitemap
+Labo Sitemap
